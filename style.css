@@ -47,7 +47,7 @@ a{
 }
 
 .landing-heading{
-    background-image: url("Bg22.png"),url("bg_1@2x.png");
+    background-image: url("./index/Bg22.png"),url("./index/bg_1@2x.png");
     background-size: 55%,100px;
     display: block;
     background-position: right top, left bottom;
@@ -132,7 +132,7 @@ color: #77838f;
 }
 
 .foi-footer{
-    background-image: url("Footer_bg.svg");
+    background-image: url("./footer/Footer_bg.svg");
     padding-top: 150px;
     padding-bottom: 110px;
     background-color: #ffffff;
